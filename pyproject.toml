@@ -10,10 +10,10 @@ description = "OpenAGI: Package for AI Agent Creation"
 keywords = ["llm", "agi"]
 license = {file = "LICENSE"}
 
-name = "pyopenagi"
+name = "aios-api"
 readme = "README.md"
 requires-python = ">=3.9"
-version = "0.0.10"
+version = "0.0.1"
 
 classifiers = [
   "Development Status :: 3 - Alpha",
